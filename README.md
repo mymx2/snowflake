@@ -30,4 +30,5 @@ for more details, please read [SnowflakeDemo2.java](src/test/java/xyz/downgoon/s
 ## snowflake tutorial
 
 - [snowflake tutorial](docs/SnowflakeTutorial_zh_CN.md)：中文教程
--http://www.cnblogs.com/lirenzuo/p/8440413.html: 分布式唯一id：snowflake算法思考
+
+- http://www.cnblogs.com/lirenzuo/p/8440413.html: 分布式唯一id：snowflake算法思考
